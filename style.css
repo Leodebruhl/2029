@@ -1,0 +1,22 @@
+body{
+  background:lightgrey;
+}
+#solar{
+  position:absolute;
+  left:0px;
+  top:0px;
+}
+
+input {
+  width: 150px;
+  height:12px;
+  font-size:8px;
+}
+
+.correct{
+  background:lime;
+}
+
+.incorrect{
+  background:red;
+}
